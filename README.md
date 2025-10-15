@@ -14,4 +14,6 @@
 2. Praktikum 5 Langkah 7:
 ![Screenshot belanja](assets/readme/02.jpg)
 
-3.
+3. Tugas 2
+    - Sebelum
+![Screenshot belanja](assets/readme/03.jpg)
