@@ -17,3 +17,6 @@
 3. Tugas 2
     - Sebelum
 ![Screenshot belanja](assets/readme/03.jpg)
+
+    - Sesudah
+![Screenshot belanja](assets/readme/04.jpg)
