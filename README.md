@@ -11,3 +11,7 @@
 1. Praktikum 5 Langkah 6:
 ![Screenshot belanja](assets/readme/01.jpg)
 
+2. Praktikum 5 Langkah 7:
+![Screenshot belanja](assets/readme/02.jpg)
+
+3.
